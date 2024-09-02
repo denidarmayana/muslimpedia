@@ -23,19 +23,19 @@ node app.js
 Endpoint Rest Api
 | No  | Fitur               | Link           |
 |-----|---------------------|-----------------------|
-| 1   | Get All Surah       | [/surah/all](https://github.com/username/repository/wiki/Otentikasi) |
-| 2   | Get Surag by ID     | [/surah/:surahNumber](https://github.com/username/repository/wiki/Manajemen-Produk) |
-| 3   | Get All Juz         | [/juzs/all](https://github.com/username/repository/wiki/Pelaporan) |
-| 4   | Get Juz By ID       | [/juz/:juzNumber](https://github.com/username/repository/wiki/Dashboard) |
-| 5   | Get All Page        | [/pages/all](https://github.com/username/repository/wiki/Dashboard) |
-| 6   | Get Page By ID      | [/page/:pageNumber](https://github.com/username/repository/wiki/Dashboard) |
-| 7   | Get All Manzil      | [/manzils/all](https://github.com/username/repository/wiki/Dashboard) |
-| 8   | Get Manzil By ID    | [/manzil/:juzNumber](https://github.com/username/repository/wiki/Dashboard) |
-| 9   | Get All Ruku        | [/rukus/all](https://github.com/username/repository/wiki/Dashboard) |
-| 10  | Get Ruku By ID      | [/ruku/:rukuNumber](https://github.com/username/repository/wiki/Dashboard) |
-| 11  | Get All Hizb        | [/hizb/all](https://github.com/username/repository/wiki/Dashboard) |
-| 12  | Get Hizb By ID      | [/hizb/:hizbNumber](https://github.com/username/repository/wiki/Dashboard) |
-| 13  | Ayah Sajadah        | [/ayahs/sajadah](https://github.com/username/repository/wiki/Dashboard) |
+| 1   | Get All Surah       | [/surah/all](https://api.muslimpedia.tech/surah/all) |
+| 2   | Get Surag by ID     | [/surah/:surahNumber](https://api.muslimpedia.tech/surah/1) |
+| 3   | Get All Juz         | [/juzs/all](https://api.muslimpedia.tech/juz/all) |
+| 4   | Get Juz By ID       | [/juz/:juzNumber](https://api.muslimpedia.tech/juz/1) |
+| 5   | Get All Page        | [/pages/all](https://api.muslimpedia.tech/pages/all) |
+| 6   | Get Page By ID      | [/page/:pageNumber](https://api.muslimpedia.tech/page/1) |
+| 7   | Get All Manzil      | [/manzils/all](https://api.muslimpedia.tech/manzill/all) |
+| 8   | Get Manzil By ID    | [/manzil/:juzNumber](https://api.muslimpedia.tech/manzil/1) |
+| 9   | Get All Ruku        | [/rukus/all](https://api.muslimpedia.tech/ruku/all) |
+| 10  | Get Ruku By ID      | [/ruku/:rukuNumber](https://api.muslimpedia.tech/ruku/1) |
+| 11  | Get All Hizb        | [/hizb/all](https://api.muslimpedia.tech/hizb/all) |
+| 12  | Get Hizb By ID      | [/hizb/:hizbNumber](https://api.muslimpedia.tech/hizb/1) |
+| 13  | Ayah Sajadah        | [/ayahs/sajadah](https://api.muslimpedia.tech/ayahs/sajadah) |
 
 
 
