@@ -1,0 +1,19 @@
+{
+  "name": "quran",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "fx": "^35.0.0",
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
