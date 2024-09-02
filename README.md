@@ -33,7 +33,7 @@ Endpoint Rest Api
 | 8   | Get Manzil By ID    | [/manzil/:juzNumber](https://api.muslimpedia.tech/manzil/1) |
 | 9   | Get All Ruku        | [/rukus/all](https://api.muslimpedia.tech/ruku/all) |
 | 10  | Get Ruku By ID      | [/ruku/:rukuNumber](https://api.muslimpedia.tech/ruku/1) |
-| 11  | Get All Hizb        | [/hizb/all](https://api.muslimpedia.tech/hizb/all) |
+| 11  | Get All Hizb        | [/hizbs/all](https://api.muslimpedia.tech/hizbs/all) |
 | 12  | Get Hizb By ID      | [/hizb/:hizbNumber](https://api.muslimpedia.tech/hizb/1) |
 | 13  | Ayah Sajadah        | [/ayahs/sajadah](https://api.muslimpedia.tech/ayahs/sajadah) |
 
